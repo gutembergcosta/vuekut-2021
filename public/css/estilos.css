@@ -1,0 +1,37 @@
+body{
+    font-size:14px;
+    color: #4d4d4d;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+.container{
+    max-width: 1250px
+}
+
+a{  
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.link-base{
+    color: #0d47a1!important;
+}
+
+.link-base:hover{
+    color: #ff4081!important;
+}
+
+
+.btn-base{
+    background-color: #0d47a1!important;
+    color: white;
+}
+
+.btn-base:hover{
+    background-color: #ff4081!important;
+    color: white;
+}
+
+
